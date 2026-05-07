@@ -72,7 +72,7 @@ The dashboard helps analyze:
 # 📁 Files Included
 
 - `Sales Analysis Dashboard.pbix` → Main Power BI dashboard file
-- `Dataset/` → CSV dataset files used for analysis
+- `Adventure Works Data/` → CSV dataset files used for analysis
 - `screenshots/` → Dashboard screenshots and preview images
 - `README.md` → Project documentation
 
